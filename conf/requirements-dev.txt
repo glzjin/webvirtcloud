@@ -1,6 +1,6 @@
 beautifulsoup4==4.9.1
 coverage==5.1
-Django==2.2.13
+Django==2.2.25
 django-bootstrap4==2.0.1
 django-debug-toolbar==2.2
 django-icons==2.0.0
