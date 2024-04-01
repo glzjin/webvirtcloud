@@ -2,4 +2,4 @@
 coverage==5.1
 pycodestyle
 pyflakes==2.2.0
-pylint==2.5.2
+pylint==2.6.1
